@@ -221,7 +221,8 @@ a sequence of three git commands:
 - [ ] repeat the above steps for `README.md` (or try using the approach below).
 
 Tip: You can also use IntelliJ to execute these same steps using the graphical user interface it provides.
-If you have followed the software installation instructions, you should see `Git` in the menu bar at the top.
+If you have followed the software installation instructions, you should see `Git`git commit -m "updated README with new information"
+in the menu bar at the top.
 From that you can select `Commit...`, which will allow you to add and commit files (you use checkboxes to
 indicate which files to add and put the commit message in the textbox, then press the commit button).
 That menu also gives you the option to commit and push in one step if you wish to do so.
